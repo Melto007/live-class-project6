@@ -1,4 +1,4 @@
-# Project 6 [Live link]()
+# Project 6 [Live link](https://live-class-project6.netlify.app)
 
 ## Skills gained from this project
     - I used font-weight to increase the boldness of the text
